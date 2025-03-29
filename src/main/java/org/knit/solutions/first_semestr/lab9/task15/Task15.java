@@ -1,4 +1,4 @@
-package org.knit.first_semestr.lab9.task15;
+package org.knit.solutions.first_semestr.lab9.task15;
 
 public class Task15 {
     public static void execute(){

@@ -1,4 +1,4 @@
-package org.knit.first_semestr.lab9.task14;
+package org.knit.solutions.first_semestr.lab9.task14;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package org.knit.second_semestr.lab2_2.task2_5;
+package org.knit.solutions.second_semestr.lab2_2.task2_5;
 
 import java.util.LinkedList;
 import java.util.Queue;

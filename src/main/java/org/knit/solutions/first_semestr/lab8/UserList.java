@@ -1,4 +1,4 @@
-package org.knit.first_semestr.lab8;
+package org.knit.solutions.first_semestr.lab8;
 
 import java.io.*;
 import java.util.ArrayList;

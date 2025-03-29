@@ -1,4 +1,4 @@
-package org.knit.first_semestr.lab3;
+package org.knit.solutions.first_semestr.lab3;
 
 public class Guard extends Warrior {
     public Guard(String name, Race race) {

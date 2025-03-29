@@ -1,4 +1,4 @@
-package org.knit.second_semestr.lab2_1.task2;
+package org.knit.solutions.second_semestr.lab2_1.task2;
 
 public class Milk extends CoffeeDecorator{
     public Milk(Coffee coffee) {

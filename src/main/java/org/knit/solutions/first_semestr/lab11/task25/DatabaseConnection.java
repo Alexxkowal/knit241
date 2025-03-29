@@ -1,4 +1,5 @@
-package org.knit.first_semestr.lab11.task25;
+package org.knit.solutions.first_semestr.lab11.task25;
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;

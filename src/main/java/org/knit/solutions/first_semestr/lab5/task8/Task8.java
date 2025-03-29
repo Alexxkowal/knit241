@@ -1,6 +1,6 @@
-package org.knit.first_semestr.lab5.task8;
+package org.knit.solutions.first_semestr.lab5.task8;
 
-import org.knit.first_semestr.lab5.task9.Task9;
+import org.knit.solutions.first_semestr.lab5.task9.Task9;
 
 import java.util.*;
 

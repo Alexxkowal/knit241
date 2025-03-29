@@ -1,4 +1,4 @@
-package org.knit.first_semestr.lab4;
+package org.knit.solutions.first_semestr.lab4;
 
 import java.util.HashMap;
 import java.util.HashSet;

@@ -1,4 +1,4 @@
-package org.knit.first_semestr.lab7;
+package org.knit.solutions.first_semestr.lab7;
 
 import java.nio.file.Files;
 import java.nio.file.Path;

@@ -1,11 +1,11 @@
-package org.knit.second_semestr.lab2_3;
+package org.knit.solutions.second_semestr.lab2_3;
 
 import java.util.Random;
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;
 import java.util.concurrent.ThreadLocalRandom;
 
-class Runner implements Runnable {
+public class Runner implements Runnable {
     private final CyclicBarrier startBarrier;
     private final CyclicBarrier finishBarrier;
     private final int runnerId;

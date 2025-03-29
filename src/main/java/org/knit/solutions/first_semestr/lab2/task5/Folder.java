@@ -1,4 +1,4 @@
-package org.knit.first_semestr.lab2.task5;
+package org.knit.solutions.first_semestr.lab2.task5;
 
 import java.util.ArrayList;
 

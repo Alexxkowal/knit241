@@ -1,6 +1,6 @@
-package org.knit.first_semestr.lab10.task22;
+package org.knit.solutions.first_semestr.lab10.task22;
 
-import org.knit.first_semestr.lab10.task18.Pair;
+import org.knit.solutions.first_semestr.lab10.task18.Pair;
 
 import java.util.ArrayList;
 import java.util.List;

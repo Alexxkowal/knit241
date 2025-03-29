@@ -1,4 +1,4 @@
-package org.knit.first_semestr.lab2.task3;
+package org.knit.solutions.first_semestr.lab2.task3;
 
 import java.util.Objects;
 import java.util.Scanner;

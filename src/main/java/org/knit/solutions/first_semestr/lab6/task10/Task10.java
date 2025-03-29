@@ -1,4 +1,4 @@
-package org.knit.first_semestr.lab6.task10;
+package org.knit.solutions.first_semestr.lab6.task10;
 
 import java.io.FileNotFoundException;
 import java.util.Scanner;

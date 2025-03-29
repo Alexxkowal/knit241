@@ -1,4 +1,4 @@
-package org.knit.first_semestr.lab11.task25;
+package org.knit.solutions.first_semestr.lab11.task25;
 
 import java.io.File;
 import java.io.IOException;

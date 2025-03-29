@@ -1,6 +1,6 @@
-package org.knit.second_semestr.lab2_2.task2_8;
+package org.knit.solutions.second_semestr.lab2_2.task2_8;
 
-class TrafficLightController extends Thread {
+public class TrafficLightController extends Thread {
     private TrafficLight trafficLight;
 
     public TrafficLightController(TrafficLight trafficLight) {

@@ -1,4 +1,4 @@
-package org.knit.first_semestr.lab3;
+package org.knit.solutions.first_semestr.lab3;
 
 public class Mage extends Player implements Damager {
     private final int spellDamage;

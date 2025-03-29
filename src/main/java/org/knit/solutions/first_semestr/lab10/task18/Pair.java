@@ -1,4 +1,4 @@
-package org.knit.first_semestr.lab10.task18;
+package org.knit.solutions.first_semestr.lab10.task18;
 
 public class Pair<K, V> {
     private K key;

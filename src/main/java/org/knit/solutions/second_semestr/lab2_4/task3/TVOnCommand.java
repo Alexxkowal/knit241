@@ -1,4 +1,4 @@
-package org.knit.second_semestr.lab2_4.task3;
+package org.knit.solutions.second_semestr.lab2_4.task3;
 
 public class TVOnCommand implements Command {
     private final TV tv;

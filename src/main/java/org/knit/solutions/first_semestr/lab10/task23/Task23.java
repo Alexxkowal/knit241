@@ -1,4 +1,4 @@
-package org.knit.first_semestr.lab10.task23;
+package org.knit.solutions.first_semestr.lab10.task23;
 
 public class Task23 {
 

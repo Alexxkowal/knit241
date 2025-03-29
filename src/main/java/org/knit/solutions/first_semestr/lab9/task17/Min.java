@@ -1,4 +1,4 @@
-package org.knit.first_semestr.lab9.task17;
+package org.knit.solutions.first_semestr.lab9.task17;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

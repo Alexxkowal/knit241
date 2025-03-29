@@ -1,4 +1,4 @@
-package org.knit.first_semestr.lab2.task4;
+package org.knit.solutions.first_semestr.lab2.task4;
 
 public class Container {
     double volume;

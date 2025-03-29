@@ -1,9 +1,9 @@
-package org.knit.second_semestr.lab2_2.task2_7;
+package org.knit.solutions.second_semestr.lab2_2.task2_7;
 
 import java.util.LinkedList;
 import java.util.Queue;
 
-class Warehouse {
+public class Warehouse {
     private final int CAPACITY = 5;
     private final Queue<Integer> storage = new LinkedList<>();
 

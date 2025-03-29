@@ -1,4 +1,4 @@
-package org.knit.first_semestr.lab6.task11;
+package org.knit.solutions.first_semestr.lab6.task11;
 
 import java.util.Iterator;
 import java.util.TreeSet;

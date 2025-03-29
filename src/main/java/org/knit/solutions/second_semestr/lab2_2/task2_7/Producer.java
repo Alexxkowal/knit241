@@ -1,6 +1,6 @@
-package org.knit.second_semestr.lab2_2.task2_7;
+package org.knit.solutions.second_semestr.lab2_2.task2_7;
 
-class Producer extends Thread {
+public class Producer extends Thread {
     private Warehouse warehouse;
     private int itemCount = 0; // Номер товара
 

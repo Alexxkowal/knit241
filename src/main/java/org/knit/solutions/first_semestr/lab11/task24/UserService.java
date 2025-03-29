@@ -1,4 +1,5 @@
-package org.knit.first_semestr.lab11.task24;
+package org.knit.solutions.first_semestr.lab11.task24;
+
 import java.sql.SQLException;
 import java.util.List;
 

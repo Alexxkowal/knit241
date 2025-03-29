@@ -1,12 +1,19 @@
-package org.knit.second_semestr.lab2_3;
+package org.knit.solutions.second_semestr.lab2_3;
+
+import org.knit.TaskDescription;
+import org.knit.solutions.Solution;
 
 import java.util.concurrent.CyclicBarrier;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-public class Race {
-    public static void execute(String[] args) {
-        final int RUNNERS_COUNT = args.length > 0 ? Integer.parseInt(args[0]) : 5;
+public class Race{
+    int count;
+    public Race(int count){
+        this.count = count;
+    }
+    public void execute() {
+        final int RUNNERS_COUNT = count;
 
         CyclicBarrier startBarrier = new CyclicBarrier(RUNNERS_COUNT, () ->
             System.out.println("Все бегуны готовы! Забег начинается!\n")
@@ -23,4 +30,5 @@ public class Race {
 
         executor.shutdown();
     }
+
 }

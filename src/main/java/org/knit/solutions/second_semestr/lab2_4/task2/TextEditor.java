@@ -1,4 +1,4 @@
-package org.knit.second_semestr.lab2_4.task2;
+package org.knit.solutions.second_semestr.lab2_4.task2;
 
 public class TextEditor {
     private StringBuilder text = new StringBuilder();

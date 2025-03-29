@@ -1,4 +1,4 @@
-package org.knit.second_semestr.lab2_2.task2_6;
+package org.knit.solutions.second_semestr.lab2_2.task2_6;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

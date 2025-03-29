@@ -1,4 +1,4 @@
-package org.knit.first_semestr.lab9.task15;
+package org.knit.solutions.first_semestr.lab9.task15;
     enum Seasons{
         WINTER("Холодно", "Новый год"),
         SUMMER("Жарко", "Каникулы"),

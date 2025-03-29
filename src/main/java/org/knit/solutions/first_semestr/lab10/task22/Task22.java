@@ -1,4 +1,4 @@
-package org.knit.first_semestr.lab10.task22;
+import org.knit.solutions.first_semestr.lab10.task22.Dictionary;
 
 public class Task22 {
     public static void execute(){

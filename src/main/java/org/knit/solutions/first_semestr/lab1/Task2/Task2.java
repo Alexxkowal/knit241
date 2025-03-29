@@ -1,4 +1,6 @@
-package org.knit.first_semestr.lab1.Task2;
+package org.knit.solutions.first_semestr.lab1.Task2;
+
+import org.knit.solutions.first_semestr.lab1.Task2.SimpleUrl;
 
 /***
  * Задача 2

@@ -1,4 +1,4 @@
-package org.knit.first_semestr.lab1.Task2;
+package org.knit.solutions.first_semestr.lab1.Task2;
 
 public class SimpleUrl {
     private String protocol;

@@ -1,4 +1,4 @@
-package org.knit.first_semestr.lab4;
+package org.knit.solutions.first_semestr.lab4;
 
 public class DictionaryStatisticsFabric {
     public static int getWordMaxLen(String[] words){

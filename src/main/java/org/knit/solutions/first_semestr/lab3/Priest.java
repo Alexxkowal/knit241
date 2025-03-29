@@ -1,4 +1,4 @@
-package org.knit.first_semestr.lab3;
+package org.knit.solutions.first_semestr.lab3;
 
 public class Priest extends  Player implements Healer{
     int healpower;

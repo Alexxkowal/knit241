@@ -1,4 +1,4 @@
-package org.knit.second_semestr.lab2_4.task2;
+package org.knit.solutions.second_semestr.lab2_4.task2;
 
 import java.util.Stack;
 

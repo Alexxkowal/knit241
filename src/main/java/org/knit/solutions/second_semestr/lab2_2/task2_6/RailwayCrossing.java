@@ -1,4 +1,4 @@
-package org.knit.second_semestr.lab2_2.task2_6;
+package org.knit.solutions.second_semestr.lab2_2.task2_6;
 
 class RailwayCrossing {
     private boolean trainIsComing = false; // Флаг, едет ли поезд

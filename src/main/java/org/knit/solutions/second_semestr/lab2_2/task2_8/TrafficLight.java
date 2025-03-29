@@ -1,6 +1,6 @@
-package org.knit.second_semestr.lab2_2.task2_8;
+package org.knit.solutions.second_semestr.lab2_2.task2_8;
 
-class TrafficLight {
+public class TrafficLight {
     private volatile boolean isGreen = false; // Начинаем с красного
 
     public synchronized void waitGreen() {

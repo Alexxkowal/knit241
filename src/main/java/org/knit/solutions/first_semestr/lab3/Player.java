@@ -1,4 +1,4 @@
-package org.knit.first_semestr.lab3;
+package org.knit.solutions.first_semestr.lab3;
 
 public abstract class Player {
     protected String name;

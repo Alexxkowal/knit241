@@ -1,4 +1,4 @@
-package org.knit.first_semestr.lab5.task9;
+package org.knit.solutions.first_semestr.lab5.task9;
 
 import java.io.File;
 import java.io.FileNotFoundException;
